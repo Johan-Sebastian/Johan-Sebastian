@@ -1,7 +1,9 @@
 
 Johan Sebastian
 
-![]([https://images.cooltext.com/5508510.png](https://imgur.com/uWteCty))
+![](https://imgur.com/uWteCty)
+
+<a href="https://imgur.com/uWteCty" target="_top"><img src="https://imgur.com/uWteCty" width="80" height="15" alt="Logo GitHub" border="0" /></a>
 
 Estudiante del Instituto tecnologico de tijuana.
 
