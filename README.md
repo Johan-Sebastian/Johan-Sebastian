@@ -35,7 +35,7 @@ Latest commit ccc7bfa 4 days ago
 
 
 
-| Hora  | Lunes                                        | Martes                                       | Miercoles                                    | Jueves                                       | Viernes                                      |
+|  | Lunes                                        | Martes                                       | Miercoles                                    | Jueves                                       | Viernes                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | 14:00 | Taller de investigacion                      | Taller de investigacion                      | Taller de investigacion                      | Taller de investigacion                      | Taller de investigacion                      |
 | 15:00 | Gestion de proyectos de software             | Gestion de proyectos de software             | Gestion de proyectos de software             | Gestion de proyectos de software             | Gestion de proyectos de software             |
