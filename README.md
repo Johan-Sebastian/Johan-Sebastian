@@ -1,9 +1,8 @@
 
 Johan Sebastian
 
-![](https://imgur.com/uWteCty)
 
-<a href="https://imgur.com/uWteCty" target="_top"><img src="https://imgur.com/uWteCty" width="80" height="15" alt="Logo GitHub" border="0" /></a>
+<a href="https://imgur.com/uWteCty" target="_top"><img src="https://i.imgur.com/uWteCty.gif" width="120" height="120" alt="Logo GitHub" border="0" /></a>
 
 Estudiante del Instituto tecnologico de tijuana.
 
@@ -17,3 +16,5 @@ Estudiante del Instituto tecnologico de tijuana.
 | 17:00 | Sistemas programables                        | Sistemas programables                        | Sistemas programables                        | Sistemas programables                        |                    |
 | 18:00 | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      |
 | 19:00 | Programacion logica y funcional              | Programacion logica y funcional              | Programacion logica y funcional              | Programacion logica y funcional              |            |
+
+<a href="https://imgur.com/uWteCty" target="_center"><img src="https://i.imgur.com/LDXu6Mn.jpeg" width="320" height="320" alt="Image GitHub" border="0" /></a>
