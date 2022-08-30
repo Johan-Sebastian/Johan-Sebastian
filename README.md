@@ -7,7 +7,7 @@ Estudiante del Instituto tecnologico de tijuana.
 
 
 
-|  | Lunes                                        | Martes                                       | Miercoles                                    | Jueves                                       | Viernes                                      |
+|  | Lunes                                          | Martes                                         | Miercoles                                      | Jueves                                         | Viernes                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | 14:00 | Taller de investigacion                      | Taller de investigacion                      | Taller de investigacion                      | Taller de investigacion                      | Taller de investigacion                      |
 | 15:00 | Gestion de proyectos de software             | Gestion de proyectos de software             | Gestion de proyectos de software             | Gestion de proyectos de software             | Gestion de proyectos de software             |
