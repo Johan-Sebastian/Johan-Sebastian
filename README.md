@@ -17,4 +17,4 @@ Estudiante del Instituto tecnologico de tijuana.
 | 18:00 | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      | Lenguajes y automatas 2                      |
 | 19:00 | Programacion logica y funcional              | Programacion logica y funcional              | Programacion logica y funcional              | Programacion logica y funcional              |            |
 
-<a href="https://imgur.com/uWteCty" target="_center"><img src="https://i.imgur.com/LDXu6Mn.jpeg" width="320" height="320" alt="Image GitHub" border="0" /></a>
+<a target="_center"><img src="https://i.imgur.com/LDXu6Mn.jpeg" width="320" height="320" alt="Image GitHub" border="0" /></a>
