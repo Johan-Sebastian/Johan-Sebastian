@@ -2,7 +2,7 @@
 Johan Sebastian
 
 
-<a href="https://imgur.com/uWteCty" target="_top"><img width="120" height="120" alt="Logo GitHub" border="0" /></a>
+<a  target="_top"><img src="https://i.imgur.com/uWteCty.gif" width="120" height="120" alt="Logo GitHub" border="0" /></a>
 
 Estudiante del Instituto tecnologico de tijuana.
 
